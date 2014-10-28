@@ -1,0 +1,26 @@
+$day-list : ( mon, #2F2E12, #B24026, #62B3AA, #E4DAB6, #C4A441, #F1FFAB, #FE8E34, #FE3634, #B23738, #67383C ),
+  ( tue, #2F2E12, #B24026, #62B3AA, #E4DAB6, #C4A441, #F1FFAB, #FE8E34, #FE3634, #B23738, #67383C ),
+  ( wed, #2F2E12, #B24026, #62B3AA, #E4DAB6, #C4A441, #F1FFAB, #FE8E34, #FE3634, #B23738, #67383C ),
+  ( thu, #2F2E12, #B24026, #62B3AA, #E4DAB6, #C4A441, #F1FFAB, #FE8E34, #FE3634, #B23738, #67383C ),
+  ( fri, #2F2E12, #B24026, #62B3AA, #E4DAB6, #C4A441, #F1FFAB, #FE8E34, #FE3634, #B23738, #67383C ),
+  ( sat, #2F2E12, #B24026, #62B3AA, #E4DAB6, #C4A441, #F1FFAB, #FE8E34, #FE3634, #B23738, #67383C ),
+  ( sun, #B24026, #62B3AA, #E4DAB6, #C4A441, #F1FFAB, #FE8E34, #FE3634, #B23738, #67383C, #2F2E12 );
+
+body {
+  background-color: #fff;
+  color: #000;
+}
+
+@each $day in $day-list {
+  .#{nth($day, 1)} {
+    @for $i from 1 through 10 {
+      $myindex: $i + 1;
+      .item:nth-child(#{$i}n+1) {
+        span {
+          background-color: rgba(nth($day, $myindex), .8);
+          box-shadow: 10px 0 0 rgba(nth($day, $myindex), .8),-10px 0 0 rgba(nth($day, $myindex), .8);
+        }
+      }
+    }
+  }
+}

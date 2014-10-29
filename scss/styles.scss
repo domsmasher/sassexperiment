@@ -1,10 +1,29 @@
-$day-list : ( mon, #2F2E12, #B24026, #62B3AA, #E4DAB6, #C4A441, #F1FFAB, #FE8E34, #FE3634, #B23738, #67383C ),
-  ( tue, #2F2E12, #B24026, #62B3AA, #E4DAB6, #C4A441, #F1FFAB, #FE8E34, #FE3634, #B23738, #67383C ),
-  ( wed, #2F2E12, #B24026, #62B3AA, #E4DAB6, #C4A441, #F1FFAB, #FE8E34, #FE3634, #B23738, #67383C ),
-  ( thu, #2F2E12, #B24026, #62B3AA, #E4DAB6, #C4A441, #F1FFAB, #FE8E34, #FE3634, #B23738, #67383C ),
-  ( fri, #2F2E12, #B24026, #62B3AA, #E4DAB6, #C4A441, #F1FFAB, #FE8E34, #FE3634, #B23738, #67383C ),
-  ( sat, #2F2E12, #B24026, #62B3AA, #E4DAB6, #C4A441, #F1FFAB, #FE8E34, #FE3634, #B23738, #67383C ),
-  ( sun, #B24026, #62B3AA, #E4DAB6, #C4A441, #F1FFAB, #FE8E34, #FE3634, #B23738, #67383C, #2F2E12 );
+$main-color-1: #07387F;
+$main-color-2: #00AEFF;
+$main-color-3: #FF0044;
+$main-color-4: #7ED321;
+$main-color-5: #EA6400;
+$main-color-6: #1494CC;
+$main-color-7: #EB5B4C;
+$main-color-8: #BD00EB;
+$main-color-9: #FF0082;
+$main-color-10: #00C000;
+
+$day-list : (
+    (mon, $main-color-1, $main-color-2, $main-color-3, $main-color-4, $main-color-5,
+    $main-color-6, $main-color-7, $main-color-8, $main-color-9, $main-color-10 ),
+    (tue, $main-color-1, $main-color-2, $main-color-3, $main-color-4, $main-color-5,
+    $main-color-6, $main-color-7, $main-color-8, $main-color-9, $main-color-10 ),
+    (wed, $main-color-1, $main-color-2, $main-color-3, $main-color-4, $main-color-5,
+    $main-color-6, $main-color-7, $main-color-8, $main-color-9, $main-color-10 ),
+    (thu, $main-color-1, $main-color-2, $main-color-3, $main-color-4, $main-color-5,
+    $main-color-6, $main-color-7, $main-color-8, $main-color-9, $main-color-10 ),
+    (fri, $main-color-1, $main-color-2, $main-color-3, $main-color-4, $main-color-5,
+    $main-color-6, $main-color-7, $main-color-8, $main-color-9, $main-color-10 ),
+    (sat, $main-color-1, $main-color-2, $main-color-3, $main-color-4, $main-color-5,
+    $main-color-6, $main-color-7, $main-color-8, $main-color-9, $main-color-10 ),
+    (sun, $main-color-1, $main-color-2, $main-color-3, $main-color-4, $main-color-5,
+    $main-color-6, $main-color-7, $main-color-8, $main-color-9, $main-color-10 ));
 
 body {
   background-color: #fff;

@@ -17,72 +17,43 @@
 
 	<div class="wrap">
 		<main role="main">
-        <div class="item item-1">
-        	<h3><span>Text here</span></h3>
-        </div>
-        <div class="item item-2">
-        	<h3><span>Text here</span></h3>
-        </div>
-        <div class="item item-3">
-        	<h3><span>Text here</span></h3>
-        </div>
-        <div class="item item-4">
-        	<h3><span>Text here</span></h3>
-        </div>
-        <div class="item item-5">
-        	<h3><span>Text here</span></h3>
-        </div>
-        <div class="item item-6">
-        	<h3><span>Text here</span></h3>
-        </div>
-        <div class="item item-7">
-        	<h3><span>Text here</span></h3>
-        </div>
-        <div class="item item-8">
-        	<h3><span>Text here</span></h3>
-        </div>
-        <div class="item item-9">
-        	<h3><span>Text here</span></h3>
-        </div>
-        <div class="item item-10">
-        	<h3><span>Text here</span></h3>
-        </div>
-        <div class="item item-1">
-					<h3><span>Text here</span></h3>
-				</div>
-				<div class="item item-2">
-					<h3><span>Text here</span></h3>
-				</div>
-				<div class="item item-3">
-					<h3><span>Text here</span></h3>
-				</div>
-				<div class="item item-4">
-					<h3><span>Text here</span></h3>
-				</div>
-				<div class="item item-5">
-					<h3><span>Text here</span></h3>
-				</div>
-				<div class="item item-6">
-					<h3><span>Text here</span></h3>
-				</div>
-				<div class="item item-7">
-					<h3><span>Text here</span></h3>
-				</div>
-				<div class="item item-8">
-					<h3><span>Text here</span></h3>
-				</div>
-				<div class="item item-9">
-					<h3><span>Text here</span></h3>
-				</div>
-				<div class="item item-10">
-					<h3><span>Text here</span></h3>
-				</div>
+			<script id="entry-template" type="text/x-handlebars-template">
+			  	<div class="item {{printItemClass index}}">
+						<h3><span>Item title</span>I'm item: {{ index }}</h3>
+					</div>
+			</script>
+			<div id="container"></div>
 		</main>
 	</div>
 
 	<footer role="contentinfo">
 		<small>Copyright &copy; <time datetime="2014">2014</time></small>
 	</footer>
+<script src="bower_components/moment/moment.js"></script>
+<script src="bower_components/handlebars/handlebars.js"></script>
+<script>
+document.documentElement.className = moment().format('ddd').toLowerCase();
 
+Handlebars.registerHelper('printItemClass', function(index) {
+  var result = '';
+
+	if (index >= 0) {
+		result = 'item-' + ((index % 10) + 1);
+	}
+
+  return new Handlebars.SafeString(result);
+});
+
+var source   = document.getElementById("entry-template").innerHTML;
+var template = Handlebars.compile(source);
+var html = '';
+
+for (var ii = 0; ii < 30; ii++) {
+	html += template({index: ii});
+}
+
+document.getElementById("container").innerHTML = html;
+
+</script>
 </body>
 </html>

@@ -3,218 +3,218 @@ body {
   color: #000; }
 
 .mon .item-1 span {
-  background-color: rgba(47, 46, 18, 0.8);
-  box-shadow: 10px 0 0 rgba(47, 46, 18, 0.8), -10px 0 0 rgba(47, 46, 18, 0.8); }
+  background-color: rgba(7, 56, 127, 0.8);
+  box-shadow: 10px 0 0 rgba(7, 56, 127, 0.8), -10px 0 0 rgba(7, 56, 127, 0.8); }
 .mon .item-2 span {
-  background-color: rgba(178, 64, 38, 0.8);
-  box-shadow: 10px 0 0 rgba(178, 64, 38, 0.8), -10px 0 0 rgba(178, 64, 38, 0.8); }
+  background-color: rgba(0, 174, 255, 0.8);
+  box-shadow: 10px 0 0 rgba(0, 174, 255, 0.8), -10px 0 0 rgba(0, 174, 255, 0.8); }
 .mon .item-3 span {
-  background-color: rgba(98, 179, 170, 0.8);
-  box-shadow: 10px 0 0 rgba(98, 179, 170, 0.8), -10px 0 0 rgba(98, 179, 170, 0.8); }
+  background-color: rgba(255, 0, 68, 0.8);
+  box-shadow: 10px 0 0 rgba(255, 0, 68, 0.8), -10px 0 0 rgba(255, 0, 68, 0.8); }
 .mon .item-4 span {
-  background-color: rgba(228, 218, 182, 0.8);
-  box-shadow: 10px 0 0 rgba(228, 218, 182, 0.8), -10px 0 0 rgba(228, 218, 182, 0.8); }
+  background-color: rgba(126, 211, 33, 0.8);
+  box-shadow: 10px 0 0 rgba(126, 211, 33, 0.8), -10px 0 0 rgba(126, 211, 33, 0.8); }
 .mon .item-5 span {
-  background-color: rgba(196, 164, 65, 0.8);
-  box-shadow: 10px 0 0 rgba(196, 164, 65, 0.8), -10px 0 0 rgba(196, 164, 65, 0.8); }
+  background-color: rgba(234, 100, 0, 0.8);
+  box-shadow: 10px 0 0 rgba(234, 100, 0, 0.8), -10px 0 0 rgba(234, 100, 0, 0.8); }
 .mon .item-6 span {
-  background-color: rgba(241, 255, 171, 0.8);
-  box-shadow: 10px 0 0 rgba(241, 255, 171, 0.8), -10px 0 0 rgba(241, 255, 171, 0.8); }
+  background-color: rgba(20, 148, 204, 0.8);
+  box-shadow: 10px 0 0 rgba(20, 148, 204, 0.8), -10px 0 0 rgba(20, 148, 204, 0.8); }
 .mon .item-7 span {
-  background-color: rgba(254, 142, 52, 0.8);
-  box-shadow: 10px 0 0 rgba(254, 142, 52, 0.8), -10px 0 0 rgba(254, 142, 52, 0.8); }
+  background-color: rgba(235, 91, 76, 0.8);
+  box-shadow: 10px 0 0 rgba(235, 91, 76, 0.8), -10px 0 0 rgba(235, 91, 76, 0.8); }
 .mon .item-8 span {
-  background-color: rgba(254, 54, 52, 0.8);
-  box-shadow: 10px 0 0 rgba(254, 54, 52, 0.8), -10px 0 0 rgba(254, 54, 52, 0.8); }
+  background-color: rgba(189, 0, 235, 0.8);
+  box-shadow: 10px 0 0 rgba(189, 0, 235, 0.8), -10px 0 0 rgba(189, 0, 235, 0.8); }
 .mon .item-9 span {
-  background-color: rgba(178, 55, 56, 0.8);
-  box-shadow: 10px 0 0 rgba(178, 55, 56, 0.8), -10px 0 0 rgba(178, 55, 56, 0.8); }
+  background-color: rgba(255, 0, 130, 0.8);
+  box-shadow: 10px 0 0 rgba(255, 0, 130, 0.8), -10px 0 0 rgba(255, 0, 130, 0.8); }
 .mon .item-10 span {
-  background-color: rgba(103, 56, 60, 0.8);
-  box-shadow: 10px 0 0 rgba(103, 56, 60, 0.8), -10px 0 0 rgba(103, 56, 60, 0.8); }
+  background-color: rgba(0, 192, 0, 0.8);
+  box-shadow: 10px 0 0 rgba(0, 192, 0, 0.8), -10px 0 0 rgba(0, 192, 0, 0.8); }
 
 .tue .item-1 span {
-  background-color: rgba(47, 46, 18, 0.8);
-  box-shadow: 10px 0 0 rgba(47, 46, 18, 0.8), -10px 0 0 rgba(47, 46, 18, 0.8); }
+  background-color: rgba(7, 56, 127, 0.8);
+  box-shadow: 10px 0 0 rgba(7, 56, 127, 0.8), -10px 0 0 rgba(7, 56, 127, 0.8); }
 .tue .item-2 span {
-  background-color: rgba(178, 64, 38, 0.8);
-  box-shadow: 10px 0 0 rgba(178, 64, 38, 0.8), -10px 0 0 rgba(178, 64, 38, 0.8); }
+  background-color: rgba(0, 174, 255, 0.8);
+  box-shadow: 10px 0 0 rgba(0, 174, 255, 0.8), -10px 0 0 rgba(0, 174, 255, 0.8); }
 .tue .item-3 span {
-  background-color: rgba(98, 179, 170, 0.8);
-  box-shadow: 10px 0 0 rgba(98, 179, 170, 0.8), -10px 0 0 rgba(98, 179, 170, 0.8); }
+  background-color: rgba(255, 0, 68, 0.8);
+  box-shadow: 10px 0 0 rgba(255, 0, 68, 0.8), -10px 0 0 rgba(255, 0, 68, 0.8); }
 .tue .item-4 span {
-  background-color: rgba(228, 218, 182, 0.8);
-  box-shadow: 10px 0 0 rgba(228, 218, 182, 0.8), -10px 0 0 rgba(228, 218, 182, 0.8); }
+  background-color: rgba(126, 211, 33, 0.8);
+  box-shadow: 10px 0 0 rgba(126, 211, 33, 0.8), -10px 0 0 rgba(126, 211, 33, 0.8); }
 .tue .item-5 span {
-  background-color: rgba(196, 164, 65, 0.8);
-  box-shadow: 10px 0 0 rgba(196, 164, 65, 0.8), -10px 0 0 rgba(196, 164, 65, 0.8); }
+  background-color: rgba(234, 100, 0, 0.8);
+  box-shadow: 10px 0 0 rgba(234, 100, 0, 0.8), -10px 0 0 rgba(234, 100, 0, 0.8); }
 .tue .item-6 span {
-  background-color: rgba(241, 255, 171, 0.8);
-  box-shadow: 10px 0 0 rgba(241, 255, 171, 0.8), -10px 0 0 rgba(241, 255, 171, 0.8); }
+  background-color: rgba(20, 148, 204, 0.8);
+  box-shadow: 10px 0 0 rgba(20, 148, 204, 0.8), -10px 0 0 rgba(20, 148, 204, 0.8); }
 .tue .item-7 span {
-  background-color: rgba(254, 142, 52, 0.8);
-  box-shadow: 10px 0 0 rgba(254, 142, 52, 0.8), -10px 0 0 rgba(254, 142, 52, 0.8); }
+  background-color: rgba(235, 91, 76, 0.8);
+  box-shadow: 10px 0 0 rgba(235, 91, 76, 0.8), -10px 0 0 rgba(235, 91, 76, 0.8); }
 .tue .item-8 span {
-  background-color: rgba(254, 54, 52, 0.8);
-  box-shadow: 10px 0 0 rgba(254, 54, 52, 0.8), -10px 0 0 rgba(254, 54, 52, 0.8); }
+  background-color: rgba(189, 0, 235, 0.8);
+  box-shadow: 10px 0 0 rgba(189, 0, 235, 0.8), -10px 0 0 rgba(189, 0, 235, 0.8); }
 .tue .item-9 span {
-  background-color: rgba(178, 55, 56, 0.8);
-  box-shadow: 10px 0 0 rgba(178, 55, 56, 0.8), -10px 0 0 rgba(178, 55, 56, 0.8); }
+  background-color: rgba(255, 0, 130, 0.8);
+  box-shadow: 10px 0 0 rgba(255, 0, 130, 0.8), -10px 0 0 rgba(255, 0, 130, 0.8); }
 .tue .item-10 span {
-  background-color: rgba(103, 56, 60, 0.8);
-  box-shadow: 10px 0 0 rgba(103, 56, 60, 0.8), -10px 0 0 rgba(103, 56, 60, 0.8); }
+  background-color: rgba(0, 192, 0, 0.8);
+  box-shadow: 10px 0 0 rgba(0, 192, 0, 0.8), -10px 0 0 rgba(0, 192, 0, 0.8); }
 
 .wed .item-1 span {
-  background-color: rgba(47, 46, 18, 0.8);
-  box-shadow: 10px 0 0 rgba(47, 46, 18, 0.8), -10px 0 0 rgba(47, 46, 18, 0.8); }
+  background-color: rgba(7, 56, 127, 0.8);
+  box-shadow: 10px 0 0 rgba(7, 56, 127, 0.8), -10px 0 0 rgba(7, 56, 127, 0.8); }
 .wed .item-2 span {
-  background-color: rgba(178, 64, 38, 0.8);
-  box-shadow: 10px 0 0 rgba(178, 64, 38, 0.8), -10px 0 0 rgba(178, 64, 38, 0.8); }
+  background-color: rgba(0, 174, 255, 0.8);
+  box-shadow: 10px 0 0 rgba(0, 174, 255, 0.8), -10px 0 0 rgba(0, 174, 255, 0.8); }
 .wed .item-3 span {
-  background-color: rgba(98, 179, 170, 0.8);
-  box-shadow: 10px 0 0 rgba(98, 179, 170, 0.8), -10px 0 0 rgba(98, 179, 170, 0.8); }
+  background-color: rgba(255, 0, 68, 0.8);
+  box-shadow: 10px 0 0 rgba(255, 0, 68, 0.8), -10px 0 0 rgba(255, 0, 68, 0.8); }
 .wed .item-4 span {
-  background-color: rgba(228, 218, 182, 0.8);
-  box-shadow: 10px 0 0 rgba(228, 218, 182, 0.8), -10px 0 0 rgba(228, 218, 182, 0.8); }
+  background-color: rgba(126, 211, 33, 0.8);
+  box-shadow: 10px 0 0 rgba(126, 211, 33, 0.8), -10px 0 0 rgba(126, 211, 33, 0.8); }
 .wed .item-5 span {
-  background-color: rgba(196, 164, 65, 0.8);
-  box-shadow: 10px 0 0 rgba(196, 164, 65, 0.8), -10px 0 0 rgba(196, 164, 65, 0.8); }
+  background-color: rgba(234, 100, 0, 0.8);
+  box-shadow: 10px 0 0 rgba(234, 100, 0, 0.8), -10px 0 0 rgba(234, 100, 0, 0.8); }
 .wed .item-6 span {
-  background-color: rgba(241, 255, 171, 0.8);
-  box-shadow: 10px 0 0 rgba(241, 255, 171, 0.8), -10px 0 0 rgba(241, 255, 171, 0.8); }
+  background-color: rgba(20, 148, 204, 0.8);
+  box-shadow: 10px 0 0 rgba(20, 148, 204, 0.8), -10px 0 0 rgba(20, 148, 204, 0.8); }
 .wed .item-7 span {
-  background-color: rgba(254, 142, 52, 0.8);
-  box-shadow: 10px 0 0 rgba(254, 142, 52, 0.8), -10px 0 0 rgba(254, 142, 52, 0.8); }
+  background-color: rgba(235, 91, 76, 0.8);
+  box-shadow: 10px 0 0 rgba(235, 91, 76, 0.8), -10px 0 0 rgba(235, 91, 76, 0.8); }
 .wed .item-8 span {
-  background-color: rgba(254, 54, 52, 0.8);
-  box-shadow: 10px 0 0 rgba(254, 54, 52, 0.8), -10px 0 0 rgba(254, 54, 52, 0.8); }
+  background-color: rgba(189, 0, 235, 0.8);
+  box-shadow: 10px 0 0 rgba(189, 0, 235, 0.8), -10px 0 0 rgba(189, 0, 235, 0.8); }
 .wed .item-9 span {
-  background-color: rgba(178, 55, 56, 0.8);
-  box-shadow: 10px 0 0 rgba(178, 55, 56, 0.8), -10px 0 0 rgba(178, 55, 56, 0.8); }
+  background-color: rgba(255, 0, 130, 0.8);
+  box-shadow: 10px 0 0 rgba(255, 0, 130, 0.8), -10px 0 0 rgba(255, 0, 130, 0.8); }
 .wed .item-10 span {
-  background-color: rgba(103, 56, 60, 0.8);
-  box-shadow: 10px 0 0 rgba(103, 56, 60, 0.8), -10px 0 0 rgba(103, 56, 60, 0.8); }
+  background-color: rgba(0, 192, 0, 0.8);
+  box-shadow: 10px 0 0 rgba(0, 192, 0, 0.8), -10px 0 0 rgba(0, 192, 0, 0.8); }
 
 .thu .item-1 span {
-  background-color: rgba(47, 46, 18, 0.8);
-  box-shadow: 10px 0 0 rgba(47, 46, 18, 0.8), -10px 0 0 rgba(47, 46, 18, 0.8); }
+  background-color: rgba(7, 56, 127, 0.8);
+  box-shadow: 10px 0 0 rgba(7, 56, 127, 0.8), -10px 0 0 rgba(7, 56, 127, 0.8); }
 .thu .item-2 span {
-  background-color: rgba(178, 64, 38, 0.8);
-  box-shadow: 10px 0 0 rgba(178, 64, 38, 0.8), -10px 0 0 rgba(178, 64, 38, 0.8); }
+  background-color: rgba(0, 174, 255, 0.8);
+  box-shadow: 10px 0 0 rgba(0, 174, 255, 0.8), -10px 0 0 rgba(0, 174, 255, 0.8); }
 .thu .item-3 span {
-  background-color: rgba(98, 179, 170, 0.8);
-  box-shadow: 10px 0 0 rgba(98, 179, 170, 0.8), -10px 0 0 rgba(98, 179, 170, 0.8); }
+  background-color: rgba(255, 0, 68, 0.8);
+  box-shadow: 10px 0 0 rgba(255, 0, 68, 0.8), -10px 0 0 rgba(255, 0, 68, 0.8); }
 .thu .item-4 span {
-  background-color: rgba(228, 218, 182, 0.8);
-  box-shadow: 10px 0 0 rgba(228, 218, 182, 0.8), -10px 0 0 rgba(228, 218, 182, 0.8); }
+  background-color: rgba(126, 211, 33, 0.8);
+  box-shadow: 10px 0 0 rgba(126, 211, 33, 0.8), -10px 0 0 rgba(126, 211, 33, 0.8); }
 .thu .item-5 span {
-  background-color: rgba(196, 164, 65, 0.8);
-  box-shadow: 10px 0 0 rgba(196, 164, 65, 0.8), -10px 0 0 rgba(196, 164, 65, 0.8); }
+  background-color: rgba(234, 100, 0, 0.8);
+  box-shadow: 10px 0 0 rgba(234, 100, 0, 0.8), -10px 0 0 rgba(234, 100, 0, 0.8); }
 .thu .item-6 span {
-  background-color: rgba(241, 255, 171, 0.8);
-  box-shadow: 10px 0 0 rgba(241, 255, 171, 0.8), -10px 0 0 rgba(241, 255, 171, 0.8); }
+  background-color: rgba(20, 148, 204, 0.8);
+  box-shadow: 10px 0 0 rgba(20, 148, 204, 0.8), -10px 0 0 rgba(20, 148, 204, 0.8); }
 .thu .item-7 span {
-  background-color: rgba(254, 142, 52, 0.8);
-  box-shadow: 10px 0 0 rgba(254, 142, 52, 0.8), -10px 0 0 rgba(254, 142, 52, 0.8); }
+  background-color: rgba(235, 91, 76, 0.8);
+  box-shadow: 10px 0 0 rgba(235, 91, 76, 0.8), -10px 0 0 rgba(235, 91, 76, 0.8); }
 .thu .item-8 span {
-  background-color: rgba(254, 54, 52, 0.8);
-  box-shadow: 10px 0 0 rgba(254, 54, 52, 0.8), -10px 0 0 rgba(254, 54, 52, 0.8); }
+  background-color: rgba(189, 0, 235, 0.8);
+  box-shadow: 10px 0 0 rgba(189, 0, 235, 0.8), -10px 0 0 rgba(189, 0, 235, 0.8); }
 .thu .item-9 span {
-  background-color: rgba(178, 55, 56, 0.8);
-  box-shadow: 10px 0 0 rgba(178, 55, 56, 0.8), -10px 0 0 rgba(178, 55, 56, 0.8); }
+  background-color: rgba(255, 0, 130, 0.8);
+  box-shadow: 10px 0 0 rgba(255, 0, 130, 0.8), -10px 0 0 rgba(255, 0, 130, 0.8); }
 .thu .item-10 span {
-  background-color: rgba(103, 56, 60, 0.8);
-  box-shadow: 10px 0 0 rgba(103, 56, 60, 0.8), -10px 0 0 rgba(103, 56, 60, 0.8); }
+  background-color: rgba(0, 192, 0, 0.8);
+  box-shadow: 10px 0 0 rgba(0, 192, 0, 0.8), -10px 0 0 rgba(0, 192, 0, 0.8); }
 
 .fri .item-1 span {
-  background-color: rgba(47, 46, 18, 0.8);
-  box-shadow: 10px 0 0 rgba(47, 46, 18, 0.8), -10px 0 0 rgba(47, 46, 18, 0.8); }
+  background-color: rgba(7, 56, 127, 0.8);
+  box-shadow: 10px 0 0 rgba(7, 56, 127, 0.8), -10px 0 0 rgba(7, 56, 127, 0.8); }
 .fri .item-2 span {
-  background-color: rgba(178, 64, 38, 0.8);
-  box-shadow: 10px 0 0 rgba(178, 64, 38, 0.8), -10px 0 0 rgba(178, 64, 38, 0.8); }
+  background-color: rgba(0, 174, 255, 0.8);
+  box-shadow: 10px 0 0 rgba(0, 174, 255, 0.8), -10px 0 0 rgba(0, 174, 255, 0.8); }
 .fri .item-3 span {
-  background-color: rgba(98, 179, 170, 0.8);
-  box-shadow: 10px 0 0 rgba(98, 179, 170, 0.8), -10px 0 0 rgba(98, 179, 170, 0.8); }
+  background-color: rgba(255, 0, 68, 0.8);
+  box-shadow: 10px 0 0 rgba(255, 0, 68, 0.8), -10px 0 0 rgba(255, 0, 68, 0.8); }
 .fri .item-4 span {
-  background-color: rgba(228, 218, 182, 0.8);
-  box-shadow: 10px 0 0 rgba(228, 218, 182, 0.8), -10px 0 0 rgba(228, 218, 182, 0.8); }
+  background-color: rgba(126, 211, 33, 0.8);
+  box-shadow: 10px 0 0 rgba(126, 211, 33, 0.8), -10px 0 0 rgba(126, 211, 33, 0.8); }
 .fri .item-5 span {
-  background-color: rgba(196, 164, 65, 0.8);
-  box-shadow: 10px 0 0 rgba(196, 164, 65, 0.8), -10px 0 0 rgba(196, 164, 65, 0.8); }
+  background-color: rgba(234, 100, 0, 0.8);
+  box-shadow: 10px 0 0 rgba(234, 100, 0, 0.8), -10px 0 0 rgba(234, 100, 0, 0.8); }
 .fri .item-6 span {
-  background-color: rgba(241, 255, 171, 0.8);
-  box-shadow: 10px 0 0 rgba(241, 255, 171, 0.8), -10px 0 0 rgba(241, 255, 171, 0.8); }
+  background-color: rgba(20, 148, 204, 0.8);
+  box-shadow: 10px 0 0 rgba(20, 148, 204, 0.8), -10px 0 0 rgba(20, 148, 204, 0.8); }
 .fri .item-7 span {
-  background-color: rgba(254, 142, 52, 0.8);
-  box-shadow: 10px 0 0 rgba(254, 142, 52, 0.8), -10px 0 0 rgba(254, 142, 52, 0.8); }
+  background-color: rgba(235, 91, 76, 0.8);
+  box-shadow: 10px 0 0 rgba(235, 91, 76, 0.8), -10px 0 0 rgba(235, 91, 76, 0.8); }
 .fri .item-8 span {
-  background-color: rgba(254, 54, 52, 0.8);
-  box-shadow: 10px 0 0 rgba(254, 54, 52, 0.8), -10px 0 0 rgba(254, 54, 52, 0.8); }
+  background-color: rgba(189, 0, 235, 0.8);
+  box-shadow: 10px 0 0 rgba(189, 0, 235, 0.8), -10px 0 0 rgba(189, 0, 235, 0.8); }
 .fri .item-9 span {
-  background-color: rgba(178, 55, 56, 0.8);
-  box-shadow: 10px 0 0 rgba(178, 55, 56, 0.8), -10px 0 0 rgba(178, 55, 56, 0.8); }
+  background-color: rgba(255, 0, 130, 0.8);
+  box-shadow: 10px 0 0 rgba(255, 0, 130, 0.8), -10px 0 0 rgba(255, 0, 130, 0.8); }
 .fri .item-10 span {
-  background-color: rgba(103, 56, 60, 0.8);
-  box-shadow: 10px 0 0 rgba(103, 56, 60, 0.8), -10px 0 0 rgba(103, 56, 60, 0.8); }
+  background-color: rgba(0, 192, 0, 0.8);
+  box-shadow: 10px 0 0 rgba(0, 192, 0, 0.8), -10px 0 0 rgba(0, 192, 0, 0.8); }
 
 .sat .item-1 span {
-  background-color: rgba(47, 46, 18, 0.8);
-  box-shadow: 10px 0 0 rgba(47, 46, 18, 0.8), -10px 0 0 rgba(47, 46, 18, 0.8); }
+  background-color: rgba(7, 56, 127, 0.8);
+  box-shadow: 10px 0 0 rgba(7, 56, 127, 0.8), -10px 0 0 rgba(7, 56, 127, 0.8); }
 .sat .item-2 span {
-  background-color: rgba(178, 64, 38, 0.8);
-  box-shadow: 10px 0 0 rgba(178, 64, 38, 0.8), -10px 0 0 rgba(178, 64, 38, 0.8); }
+  background-color: rgba(0, 174, 255, 0.8);
+  box-shadow: 10px 0 0 rgba(0, 174, 255, 0.8), -10px 0 0 rgba(0, 174, 255, 0.8); }
 .sat .item-3 span {
-  background-color: rgba(98, 179, 170, 0.8);
-  box-shadow: 10px 0 0 rgba(98, 179, 170, 0.8), -10px 0 0 rgba(98, 179, 170, 0.8); }
+  background-color: rgba(255, 0, 68, 0.8);
+  box-shadow: 10px 0 0 rgba(255, 0, 68, 0.8), -10px 0 0 rgba(255, 0, 68, 0.8); }
 .sat .item-4 span {
-  background-color: rgba(228, 218, 182, 0.8);
-  box-shadow: 10px 0 0 rgba(228, 218, 182, 0.8), -10px 0 0 rgba(228, 218, 182, 0.8); }
+  background-color: rgba(126, 211, 33, 0.8);
+  box-shadow: 10px 0 0 rgba(126, 211, 33, 0.8), -10px 0 0 rgba(126, 211, 33, 0.8); }
 .sat .item-5 span {
-  background-color: rgba(196, 164, 65, 0.8);
-  box-shadow: 10px 0 0 rgba(196, 164, 65, 0.8), -10px 0 0 rgba(196, 164, 65, 0.8); }
+  background-color: rgba(234, 100, 0, 0.8);
+  box-shadow: 10px 0 0 rgba(234, 100, 0, 0.8), -10px 0 0 rgba(234, 100, 0, 0.8); }
 .sat .item-6 span {
-  background-color: rgba(241, 255, 171, 0.8);
-  box-shadow: 10px 0 0 rgba(241, 255, 171, 0.8), -10px 0 0 rgba(241, 255, 171, 0.8); }
+  background-color: rgba(20, 148, 204, 0.8);
+  box-shadow: 10px 0 0 rgba(20, 148, 204, 0.8), -10px 0 0 rgba(20, 148, 204, 0.8); }
 .sat .item-7 span {
-  background-color: rgba(254, 142, 52, 0.8);
-  box-shadow: 10px 0 0 rgba(254, 142, 52, 0.8), -10px 0 0 rgba(254, 142, 52, 0.8); }
+  background-color: rgba(235, 91, 76, 0.8);
+  box-shadow: 10px 0 0 rgba(235, 91, 76, 0.8), -10px 0 0 rgba(235, 91, 76, 0.8); }
 .sat .item-8 span {
-  background-color: rgba(254, 54, 52, 0.8);
-  box-shadow: 10px 0 0 rgba(254, 54, 52, 0.8), -10px 0 0 rgba(254, 54, 52, 0.8); }
+  background-color: rgba(189, 0, 235, 0.8);
+  box-shadow: 10px 0 0 rgba(189, 0, 235, 0.8), -10px 0 0 rgba(189, 0, 235, 0.8); }
 .sat .item-9 span {
-  background-color: rgba(178, 55, 56, 0.8);
-  box-shadow: 10px 0 0 rgba(178, 55, 56, 0.8), -10px 0 0 rgba(178, 55, 56, 0.8); }
+  background-color: rgba(255, 0, 130, 0.8);
+  box-shadow: 10px 0 0 rgba(255, 0, 130, 0.8), -10px 0 0 rgba(255, 0, 130, 0.8); }
 .sat .item-10 span {
-  background-color: rgba(103, 56, 60, 0.8);
-  box-shadow: 10px 0 0 rgba(103, 56, 60, 0.8), -10px 0 0 rgba(103, 56, 60, 0.8); }
+  background-color: rgba(0, 192, 0, 0.8);
+  box-shadow: 10px 0 0 rgba(0, 192, 0, 0.8), -10px 0 0 rgba(0, 192, 0, 0.8); }
 
 .sun .item-1 span {
-  background-color: rgba(178, 64, 38, 0.8);
-  box-shadow: 10px 0 0 rgba(178, 64, 38, 0.8), -10px 0 0 rgba(178, 64, 38, 0.8); }
+  background-color: rgba(7, 56, 127, 0.8);
+  box-shadow: 10px 0 0 rgba(7, 56, 127, 0.8), -10px 0 0 rgba(7, 56, 127, 0.8); }
 .sun .item-2 span {
-  background-color: rgba(98, 179, 170, 0.8);
-  box-shadow: 10px 0 0 rgba(98, 179, 170, 0.8), -10px 0 0 rgba(98, 179, 170, 0.8); }
+  background-color: rgba(0, 174, 255, 0.8);
+  box-shadow: 10px 0 0 rgba(0, 174, 255, 0.8), -10px 0 0 rgba(0, 174, 255, 0.8); }
 .sun .item-3 span {
-  background-color: rgba(228, 218, 182, 0.8);
-  box-shadow: 10px 0 0 rgba(228, 218, 182, 0.8), -10px 0 0 rgba(228, 218, 182, 0.8); }
+  background-color: rgba(255, 0, 68, 0.8);
+  box-shadow: 10px 0 0 rgba(255, 0, 68, 0.8), -10px 0 0 rgba(255, 0, 68, 0.8); }
 .sun .item-4 span {
-  background-color: rgba(196, 164, 65, 0.8);
-  box-shadow: 10px 0 0 rgba(196, 164, 65, 0.8), -10px 0 0 rgba(196, 164, 65, 0.8); }
+  background-color: rgba(126, 211, 33, 0.8);
+  box-shadow: 10px 0 0 rgba(126, 211, 33, 0.8), -10px 0 0 rgba(126, 211, 33, 0.8); }
 .sun .item-5 span {
-  background-color: rgba(241, 255, 171, 0.8);
-  box-shadow: 10px 0 0 rgba(241, 255, 171, 0.8), -10px 0 0 rgba(241, 255, 171, 0.8); }
+  background-color: rgba(234, 100, 0, 0.8);
+  box-shadow: 10px 0 0 rgba(234, 100, 0, 0.8), -10px 0 0 rgba(234, 100, 0, 0.8); }
 .sun .item-6 span {
-  background-color: rgba(254, 142, 52, 0.8);
-  box-shadow: 10px 0 0 rgba(254, 142, 52, 0.8), -10px 0 0 rgba(254, 142, 52, 0.8); }
+  background-color: rgba(20, 148, 204, 0.8);
+  box-shadow: 10px 0 0 rgba(20, 148, 204, 0.8), -10px 0 0 rgba(20, 148, 204, 0.8); }
 .sun .item-7 span {
-  background-color: rgba(254, 54, 52, 0.8);
-  box-shadow: 10px 0 0 rgba(254, 54, 52, 0.8), -10px 0 0 rgba(254, 54, 52, 0.8); }
+  background-color: rgba(235, 91, 76, 0.8);
+  box-shadow: 10px 0 0 rgba(235, 91, 76, 0.8), -10px 0 0 rgba(235, 91, 76, 0.8); }
 .sun .item-8 span {
-  background-color: rgba(178, 55, 56, 0.8);
-  box-shadow: 10px 0 0 rgba(178, 55, 56, 0.8), -10px 0 0 rgba(178, 55, 56, 0.8); }
+  background-color: rgba(189, 0, 235, 0.8);
+  box-shadow: 10px 0 0 rgba(189, 0, 235, 0.8), -10px 0 0 rgba(189, 0, 235, 0.8); }
 .sun .item-9 span {
-  background-color: rgba(103, 56, 60, 0.8);
-  box-shadow: 10px 0 0 rgba(103, 56, 60, 0.8), -10px 0 0 rgba(103, 56, 60, 0.8); }
+  background-color: rgba(255, 0, 130, 0.8);
+  box-shadow: 10px 0 0 rgba(255, 0, 130, 0.8), -10px 0 0 rgba(255, 0, 130, 0.8); }
 .sun .item-10 span {
-  background-color: rgba(47, 46, 18, 0.8);
-  box-shadow: 10px 0 0 rgba(47, 46, 18, 0.8), -10px 0 0 rgba(47, 46, 18, 0.8); }
+  background-color: rgba(0, 192, 0, 0.8);
+  box-shadow: 10px 0 0 rgba(0, 192, 0, 0.8), -10px 0 0 rgba(0, 192, 0, 0.8); }
